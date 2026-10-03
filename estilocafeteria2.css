@@ -1,0 +1,9 @@
+/* 1. Importar la fuente especial para el logo */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/* 2. Aplicar SOLO al título del Navbar */
+.navbar-brand {
+  font-family: 'Pacifico', cursive !important;
+  font-size: 1.5rem !important;
+  color: #e0a96d !important; /* Un tono dorado/café bonito (opcional) */
+}
